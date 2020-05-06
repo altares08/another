@@ -1,1 +1,1 @@
-# WhatsApp-Chatbot
+This project is created for adding all the code base necessary for creating the WhatsApp Chatbot.
